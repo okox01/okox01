@@ -32,4 +32,4 @@
 📓 [Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
 
 ## 🌐🌐 Connect With Me 🌐🌐
-🔍 [LinkedIn-Sayed Ahmed Sami](https://www.linkedin.com/in/sayed-ahmed-sami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayed-ahmed-sami)
