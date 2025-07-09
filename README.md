@@ -32,5 +32,6 @@
 📓 [Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
 
 ## 🌐🌐 Connect With Me 🌐🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayed-ahmed-sami)<br>
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@okox2211)
+🔄 [LinkedIn](https://www.linkedin.com/in/sayed-ahmed-sami)<br>
+⏳ [Threads](https://www.threads.net/@okox2211)<br>
+📧 Email: [infinitejokox036@gmail.com](mailto:infinitejokox036@gmail.com)
