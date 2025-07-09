@@ -29,7 +29,7 @@
 5. ⏳ Building small data science projects
 
 # 📚📚 My Notes 📚📚
-[Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
+📓 [Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
 
 ## 🌐🌐 Connect With Me 🌐🌐
-[LinkedIn-Sayed Ahmed Sami](https://www.linkedin.com/in/sayed-ahmed-sami)
+🔍 [LinkedIn-Sayed Ahmed Sami](https://www.linkedin.com/in/sayed-ahmed-sami)
