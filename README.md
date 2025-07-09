@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayed Ahmed Sami
 
-<!--
-**okox01/okox01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | Machine Learning Enthusiast  
+🔍 Interested in AI, NLP, Computer Vision  
+💻 Working on personal projects using Python & ML  
+📚 Self-taught, learning every day  
 
-Here are some ideas to get you started:
+## 💡 My Skills
+- Python, Pandas, NumPy, Scikit-learn
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning Basics (Regression, Classification)
+- Jupyter Notebooks, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️ My Learning Roadmap
+1. ✅ Python Basics
+2. ✅ Data Analysis with Pandas
+3. 🔄 Data Visualization (in progress)
+4. 🔜 Machine Learning with Scikit-learn
+5. ⏳ Building small data science projects
+
+## 🌐 Connect With Me
+[LinkedIn-Sayed Ahmed Sami](https://www.linkedin.com/in/sayed-ahmed-sami)
