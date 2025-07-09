@@ -31,6 +31,11 @@
 # 📚📚 My Notes 📚📚
 📓 [Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
 
+# 🧠 Competitive Programming Profiles
+🧁 [CodeChef](https://www.codechef.com/users/samwiz91)<br>
+🏆 [Codeforces](https://codeforces.com/profile/okox)<br>
+🧩 [LeetCode](https://leetcode.com/okox)
+
 ## 🌐🌐 Connect With Me 🌐🌐
 🔄 [LinkedIn](https://www.linkedin.com/in/sayed-ahmed-sami)<br>
 ⏳ [Threads](https://www.threads.net/@okox2211)<br>
