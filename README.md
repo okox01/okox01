@@ -5,11 +5,21 @@
 💻 Working on personal projects using Python & ML  
 📚 Self-taught, learning every day  
 
-## 💡💡 My Skills 💡💡
-- Python, Pandas, NumPy, Scikit-learn
-- Data Visualization (Matplotlib, Seaborn)
-- Machine Learning Basics (Regression, Classification)
-- Jupyter Notebooks, Google Colab
+# 🚀🚀 Skills 🚀🚀
+🐍 Python, 🐼 Pandas, 🔢 NumPy, 🤖 Scikit-learn
+📊 Data Visualization: 🎨 Matplotlib, 🌈 Seaborn
+📚 Machine Learning Basics: 📈 Regression, 🧠 Classification
+📓 Jupyter Notebooks, ☁️ Google Colab
+
+# 💻💻 Programming Languages 💻💻
+💡 C
+💻 C++
+☕ Java
+🐍 Python
+
+# 🛠️🛠️ Tools & Technologies 🛠️🛠️
+🐙 Git & GitHub
+🗃️ SQL
 
 ## 🗺️🗺️ My Learning Roadmap 🗺️🗺️
 1. ✅ Python Basics
@@ -20,9 +30,6 @@
 
 # 📚📚 My Notes 📚📚
 [Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
-
-
-
 
 ## 🌐🌐 Connect With Me 🌐🌐
 [LinkedIn-Sayed Ahmed Sami](https://www.linkedin.com/in/sayed-ahmed-sami)
