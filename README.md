@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/okox01/okox01/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ---
