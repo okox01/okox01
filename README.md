@@ -100,10 +100,6 @@
 
 ---
 
-## 📚 My Notes
-
-### 📓 [Notion - Python Alpha Notes](https://tinyurl.com/3npwa6ac)
-
 ---
 
 ## 🧠 Competitive Programming Profiles
@@ -114,14 +110,11 @@
 
 ---
 
-## 🧩 LeetCode Tracker
 
-### 📊 [View My LeetCode Progress Tracker (Notion)](https://sepia-baboon-f0a.notion.site/Leetcode-Problems-22c740b8b3c380658680f7b522fd3bc8)
 
 ---
 
 ## 🌐 Connect With Me
 
 ### 🔄 [LinkedIn](https://www.linkedin.com/in/sayed-ahmed-sami)  
-### ⏳ [Threads](https://www.threads.net/@okox2211)  
 ### 📧 Email: [infinitejokox036@gmail.com](mailto:infinitejokox036@gmail.com)
